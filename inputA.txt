@@ -1,0 +1,3 @@
+mov R0 $6
+mov R6 $1
+hlt
